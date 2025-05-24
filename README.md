@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on:
-  - 📱 **Mashariq App** – A feature-rich Islamic app
+  - 📱 **Mashariq App** – A feature-rich System app
   - 🕋 **Hajj App** – Assisting pilgrims through smart technology
 - 🌱 Learning:
   - `Flutter`, `Dart`, `Firebase`, `Clean Architecture`, `WebRTC`, `BLoC`
