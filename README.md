@@ -1,104 +1,122 @@
-<h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">🚀 Full-Stack Mobile Developer | Flutter & Node.js Specialist</h3>
+<h1 align="center">👋 Hello, I'm Mohamed Salah</h1>
+<h3 align="center">Senior Full-Stack Mobile Developer | Flutter & Node.js Expert</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" alt="Mobile Development Animation" />
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=1m0hamedsalah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/1m0hamedsalah?tab=followers">
+    <img src="https://img.shields.io/github/followers/1m0hamedsalah?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+</div>
+
+---
+
+## 🚀 Professional Summary
+
+**Full-stack mobile developer** with 3+ years of experience building production-ready applications. Specialized in:
+
+- **Flutter Development**: Expert in BLoC, Riverpod, and Clean Architecture
+- **Node.js Backends**: REST APIs, Microservices, and Real-time systems
+- **Performance Optimization**: Mobile and backend systems tuning
+- **CI/CD Pipelines**: Automated testing and deployment workflows
+
+---
+
+## 🛠 Technical Stack
+
+### Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/BLoC-5C469C?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 👨‍💻 Professional Profile
+## 🏆 Featured Projects
 
-- 🔭 Currently developing:
-  - **Scalable Mobile Apps** with Flutter (BLoC, Clean Architecture)
-  - **RESTful APIs & Microservices** with Node.js/Express
-- 🌱 Deepening knowledge in:
-  - `Flutter Performance Optimization`
-  - `Advanced Node.js Patterns`
-  - `WebSockets & Real-time Systems`
-  - `Database Optimization (MongoDB, PostgreSQL)`
-- 💡 Passionate about:
-  - Clean Code Architecture
-  - API Design & Development
-  - Cross-platform Solutions
+### Enterprise Applications
+- **Mashariq App** - Comprehensive business management system with:
+  - Complex state management (BLoC + Freezed)
+  - Offline-first functionality
+  - Role-based authentication
+  - [GitHub Repo](#) | [Live Demo](#)
 
----
+- **Hajj App** - Pilgrimage companion application featuring:
+  - Real-time location tracking
+  - Multilingual support (English/Arabic)
+  - Emergency services integration
 
-### 🛠️ Technical Expertise
-
-#### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter" />
-  <img src="https://cdn.worldvectorlogo.com/logos/bloc.svg" width="40" alt="BLoC" />
-  <img src="https://raw.githubusercontent.com/rrousselGit/riverpod/master/logo.png" width="40" alt="Riverpod" />
-</p>
-
-#### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-</p>
-
-#### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,githubactions" alt="DevOps" />
-  <img src="https://skillicons.dev/icons?i=figma,postman" alt="Tools" />
-</p>
+### Backend Systems
+- **E-commerce API** - High-performance backend with:
+  - JWT authentication
+  - Redis caching
+  - Payment gateway integration
+  - Swagger documentation
 
 ---
 
-### 🌍 Professional Network
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/1m0hamedsalah">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1m0hamedsalah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1m0hamedsalah&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1m0hamedsalah&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-salah-9804a2247/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/1m0hamedsalah" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+  <a href="mailto:mohamedsalah.xv80@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:mohamedsalah.xv80@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Email" />
+  <a href="https://github.com/1m0hamedsalah">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🏆 Notable Projects
+## 💡 Development Philosophy
 
-#### Mobile Applications (Flutter)
-- **Mashariq App** - Enterprise system application with complex state management
-- **Hajj App** - Pilgrimage assistance platform with real-time features
-- **[More on GitHub...](https://github.com/1m0hamedsalah)**
+> "I architect mobile solutions that balance beautiful user experiences with robust backend systems. My approach combines:
+> - **Clean Code Principles**
+> - **Scalable Architecture Patterns**
+> - **Performance Optimization**
+> - **Maintainable Test Suites**
+> 
+> Let's build something remarkable together!"
 
-#### Backend Systems (Node.js/Express)
-- **E-commerce API** - RESTful service with JWT authentication
-- **Real-time Chat System** - WebSocket implementation
-- **Microservices Architecture** - Dockerized Node.js services
-
----
-
-### 📊 Development Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1m0hamedsalah&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1m0hamedsalah&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1m0hamedsalah&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 💬 Professional Philosophy
-
-> "I build robust mobile experiences powered by equally strong backend systems. My focus is on creating seamless connections between beautiful UIs and high-performance APIs, ensuring scalability and maintainability at every layer of the stack."
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=From+UI+to+API%3A+Full-stack+excellence;Flutter+%2B+Node.js+specialist;Clean+Code+%7C+Solid+Architecture;Let's+collaborate+on+your+next+project+🚀" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=22F718&center=true&width=500&lines=From+Concept+to+Production-Ready+Apps;Flutter+%2B+Node.js+Specialist;Clean+Code+%7C+Solid+Architecture;Let's+Collaborate+on+Your+Next+Project+🚀" alt="Typing SVG" />
+</div>
