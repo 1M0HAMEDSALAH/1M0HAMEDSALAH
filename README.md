@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mohamed Salah</h1>
-<h3 align="center">Senior Full-Stack Mobile Developer | Flutter & Node.js Expert</h3>
+<h3 align="center">Full-Stack Mobile Developer | Flutter & Node.js Expert</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="300" alt="Mobile Development Animation" />
@@ -16,10 +16,10 @@
 
 ## 🚀 Professional Summary
 
-**Full-stack mobile developer** with 3+ years of experience building production-ready applications. Specialized in:
+**Full-stack mobile developer** with 1+ years of experience building production-ready applications. Specialized in:
 
-- **Flutter Development**: Expert in BLoC, Riverpod, and Clean Architecture
-- **Node.js Backends**: REST APIs, Microservices, and Real-time systems
+- **Flutter Development**: Professinal in BLoC, GetX, and Clean Architecture
+- **Node.js Backends**: REST APIs,  and Real-time systems
 - **Performance Optimization**: Mobile and backend systems tuning
 - **CI/CD Pipelines**: Automated testing and deployment workflows
 
