@@ -29,36 +29,11 @@ Full-stack mobile developer with 1+ year of experience in crafting production-re
 
 ---
 
-## 📱 Live Applications
-
-### SEA Hajj App  
-App for Southeast Asian pilgrims to manage services and tasks related to the Hajj institution.
-
-<div>
-  <a href="https://play.google.com/store/apps/details?id=com.example.hajjapp" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</div>
-
----
-
 ## 🔧 Featured Work
 
 - **Mashariq App** – Role-based business app with offline-first support and BLoC architecture.  
 - **Hajj App** – Real-time tracking, multilingual support, and emergency integration.  
 - **E-commerce API** – Scalable backend with JWT, Redis, and payment gateway integration.
-
----
-
-## 📈 GitHub Insights
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1m0hamedsalah&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1m0hamedsalah&layout=compact&theme=radical" />
-</div>
 
 ---
 
@@ -81,4 +56,23 @@ App for Southeast Asian pilgrims to manage services and tasks related to the Haj
 ## 🧠 Philosophy
 
 > "Clean code, solid architecture, real impact. Let's build the future — one app at a time."
+
+
+
+
+---
+
+## 📱 Live Applications
+
+### SEA Hajj App  
+App for Southeast Asian pilgrims to manage services and tasks related to the Hajj institution.
+
+<div>
+  <a href="https://play.google.com/store/apps/details?id=com.example.hajjapp" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</div>
 
