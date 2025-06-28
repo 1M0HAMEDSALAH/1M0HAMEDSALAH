@@ -107,6 +107,21 @@
 
 ---
 
+## 📱 Live Apps on Stores
+
+### **Mashariq App**  
+Enterprise-grade mobile solution for internal management.
+
+<div align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.example.mashariq" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20IT%20ON-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</div>
+
+
 ## 💡 Development Philosophy
 
 > "I architect mobile solutions that balance beautiful user experiences with robust backend systems. My approach combines:
