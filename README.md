@@ -53,26 +53,15 @@ Full-stack mobile developer with 1+ year of experience in crafting production-re
 
 ---
 
-## 🧠 Philosophy
-
-> "Clean code, solid architecture, real impact. Let's build the future — one app at a time."
-
-
-
-
----
-
-## 📱 Live Applications
-
-### SEA Hajj App  
+📱 Live Applications
+🕋 SEA Hajj App
 App for Southeast Asian pilgrims to manage services and tasks related to the Hajj institution.
 
-<div>
-  <a href="https://play.google.com/store/apps/details?id=com.example.hajjapp" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</div>
+<div> <a href="https://play.google.com/store/apps/details?id=com.example.hajjapp" target="_blank"> <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" /> </a> <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank"> <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" /> </a> </div>
+
+
+📦 Hajj App
+A separate digital platform designed to provide Hajj pilgrims with real-time information, support, and digital services.
+
+<div> <a href="https://play.google.com/store/apps/details?id=com.example.hajjserviceapp" target="_blank"> <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" /> </a> <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank"> <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" /> </a> </div>
 
