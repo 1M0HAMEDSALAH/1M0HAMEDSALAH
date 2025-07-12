@@ -36,7 +36,7 @@ and delivering user-centric solutions at scale.
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Live Projects
 
 ### 🟢 [Mashariq App](https://play.google.com/store/apps/details?id=sa.com.mashariq.app)
 Business app with:
