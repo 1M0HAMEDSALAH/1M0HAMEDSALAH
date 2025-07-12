@@ -18,8 +18,8 @@
 
 I'm a full-stack mobile developer with **1+ year of experience** delivering **production-ready apps** using **Flutter** and **Node.js**.  
 I focus on:
-- Clean architecture
-- Real-time systems
+- Clean architecture  
+- Real-time systems  
 - Performance optimization  
 and delivering user-centric solutions at scale.
 
@@ -40,8 +40,8 @@ and delivering user-centric solutions at scale.
 
 ### 🟢 [Mashariq App](https://play.google.com/store/apps/details?id=sa.com.mashariq.app)
 Business app with:
-- Role-based access
-- Offline-first support
+- Role-based access  
+- Offline-first support  
 - Clean architecture using BLoC
 
 <div align="left">
@@ -57,8 +57,8 @@ Business app with:
 
 ### 🕋 [SEA Hajj App](https://play.google.com/store/apps/details?id=com.example.hajjapp)
 App for Southeast Asian pilgrims:
-- Real-time tracking
-- Task management
+- Real-time tracking  
+- Task management  
 - Multilingual support
 
 <div align="left">
@@ -72,17 +72,17 @@ App for Southeast Asian pilgrims:
 
 ---
 
-### 📦 Hajj Services App
-Separate digital platform providing:
-- Real-time services for Hajj pilgrims
-- Emergency support
-- Smooth and scalable UX
+### 🕌 [Hajj App Mashariq](https://play.google.com/store/apps/details?id=sa.mashariq.hajj.app)
+A dedicated digital platform for Hajj pilgrims:
+- Real-time services  
+- Emergency support  
+- Seamless multilingual UX
 
 <div align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.example.hajjserviceapp">
+  <a href="https://play.google.com/store/apps/details?id=sa.mashariq.hajj.app">
     <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
-  <a href="https://apps.apple.com/app/idXXXXXXXXX">
+  <a href="https://apps.apple.com/eg/app/hajj-app-mashariq/id6746386231">
     <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </div>
