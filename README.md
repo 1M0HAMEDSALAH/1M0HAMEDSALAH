@@ -55,23 +55,6 @@ Business app with:
 
 ---
 
-### 🕋 [SEA Hajj App](https://play.google.com/store/apps/details?id=com.example.hajjapp)
-App for Southeast Asian pilgrims:
-- Real-time tracking  
-- Task management  
-- Multilingual support
-
-<div align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.example.hajjapp">
-    <img src="https://img.shields.io/badge/Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
-  </a>
-  <a href="https://apps.apple.com/app/idXXXXXXXXX">
-    <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
-  </a>
-</div>
-
----
-
 ### 🕌 [Hajj App Mashariq](https://play.google.com/store/apps/details?id=sa.mashariq.hajj.app)
 A dedicated digital platform for Hajj pilgrims:
 - Real-time services  
